@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087969227512",
+    "project_id": "just-bargain",
+    "storage_bucket": "just-bargain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087969227512:android:d282e8ed001a1e68c8c10d",
+        "android_client_info": {
+          "package_name": "com.wc.justbargain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8SnJo4_d6qXib7Jq4XK1mi3Cw3p9dWO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
