@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Just Bargain</string>
+    <string name="verify">Verify</string>
+    <string name="resend_otp">Resend OTP</string>
 </resources>
